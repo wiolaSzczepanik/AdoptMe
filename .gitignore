@@ -1,2 +1,9 @@
 .idea/
 
+node_modules
+npm-debug.log
+.cache/
+dist/
+coverage/
+.vscode/
+.env
